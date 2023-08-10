@@ -7,4 +7,5 @@ By exploring these techniques, users can gain insights into the trade-offs betwe
 The project includes two stages:
 
 _ Reading images from text files and interpolating.
+
 _ Maintaining a few image points from original images and interpolating.
